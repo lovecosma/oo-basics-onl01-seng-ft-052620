@@ -20,6 +20,6 @@ def genre=(genre)
   @genre = genre
 end
 def turn_page
-  @page_count += 1
+  puts "Flipping the page...wow, you read fast!"s
 end
 end
