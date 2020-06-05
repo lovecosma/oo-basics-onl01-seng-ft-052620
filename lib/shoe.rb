@@ -2,5 +2,5 @@
 class Shoe
 
 
-  
-end 
+
+end
